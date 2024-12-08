@@ -1,0 +1,9 @@
+[
+    {
+        "ID": 1,
+        "Name": "Stone",
+        "MaxStack": 256,
+        "Recipe": null,
+        "Texture": "Items/Stone"
+    }
+]
