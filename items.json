@@ -3,11 +3,14 @@
         "ID": 1,
         "Name": "Stone",
         "MaxStack": 256,
-        "Recipe": {
-            "Ingredients": ["item:Stone"],
-            "CraftPlace": ["inventory"],
-            "OutputQuantity": 1
-        },
+        "Recipe": null
+        "Texture": "Items/Stone"
+    },
+    {
+        "ID": 2,
+        "Name": "Double-Stone!",
+        "MaxStack": 1,
+        "Recipe": "craft_test_double_stone"
         "Texture": "Items/Stone"
     }
 ]
