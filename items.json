@@ -3,7 +3,7 @@
         "ID": 1,
         "Name": "Stone",
         "MaxStack": 256,
-        "Recipe": null,
+        "Recipe": "",
         "Texture": "Items/Stone"
     },
     {
