@@ -3,14 +3,14 @@
         "ID": 1,
         "Name": "Stone",
         "MaxStack": 256,
-        "Recipe": null
+        "Recipe": null,
         "Texture": "Items/Stone"
     },
     {
         "ID": 2,
         "Name": "Double-Stone!",
         "MaxStack": 1,
-        "Recipe": "craft_test_double_stone"
+        "Recipe": "craft_test_double_stone",
         "Texture": "Items/Stone"
     }
 ]
