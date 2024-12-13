@@ -1,16 +1,24 @@
 [
-    {
-        "ID": 1,
-        "Name": "Stone",
-        "MaxStack": 256,
-        "Recipe": "",
-        "Texture": "Items/Stone"
-    },
-    {
-        "ID": 2,
-        "Name": "Double-Stone!",
-        "MaxStack": 1,
-        "Recipe": "craft_test_double_stone",
-        "Texture": "Items/Stone"
-    }
+  {
+    "ID": 1,
+    "Name": "Stone",
+    "MaxStack": 256,
+    "Recipe": null,
+    "Sprite": "Items/Stone"
+  },
+  {
+    "ID": 2,
+    "Name": "Stick",
+    "MaxStack": 256,
+    "Recipe": null,
+    "Sprite": "Items/Stone"
+  },
+  {
+    "ID": 3,
+    "Name": "Stone With Stick!",
+    "MaxStack": 1,
+    "Recipe": "craft_stone_stick",
+    "Ingredients": "1:1;2:1",
+    "Sprite": "Items/Stone"
+  }
 ]
